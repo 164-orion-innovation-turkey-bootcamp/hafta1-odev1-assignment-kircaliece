@@ -52,6 +52,7 @@ function indexOfSumValues2(arr, target) {
     return result.sort();
 }
 
+/*
 let num1 = [2, 7, 11, 15];
 let target1 = 9;
 
@@ -75,3 +76,4 @@ console.log(indexOfSumValues2(num1, target1));
 console.log(indexOfSumValues2(num2, target2));
 console.log(indexOfSumValues2(num3, target3));
 console.log(indexOfSumValues2(num4, target4));
+*/
